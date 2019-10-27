@@ -15,6 +15,9 @@ Az aktuális nem blokkolt headert a következő api-ból lehet lekérni: https:/
 Most úgy tűnik, hogy header nélkül is menne, de régen nem ment, úgyhogy nem ajánlom a használatát.
 
 "Kreta.Ellenorzo"                                       > Blokkolva
+
 "Kreta.Ellenorzo/2.9.4.2019101401"                      > Blokkolva
+
 "Kreta.Ellenorzo/2.9.4.2019101401 (Android; G8341 0.0)" > Működik
+
 SEMMI                                                   > Működik (most)
