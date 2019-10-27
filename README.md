@@ -10,9 +10,10 @@ Amíg nem sikerül rendezni a helyzetet, úgy döntöttem, hogy ezt a "hibát" �
 
 Írtam egy scriptet, ami letesztel néhány lehetséges header-t és ezt ide közzé is teszem, talán később még mást is rakok ide.
 
-Az aktuális nem blokkolt headert a következő api-ból lehet lekérni: https://www.e-szivacs.org/mirror/settings.json
+Az aktuális nem blokkolt headert a következő api-ból lehet lekérni (köszönet palmarcinak a hosztolásért): https://www.e-szivacs.org/mirror/settings.json
 
 Most úgy tűnik, hogy header nélkül is menne, de régen nem ment, úgyhogy nem ajánlom a használatát.
+
 ```
 "Kreta.Ellenorzo"                                       > Blokkolva
 
