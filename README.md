@@ -13,7 +13,7 @@ Amíg nem sikerül rendezni a helyzetet, úgy döntöttem, hogy ezt a "hibát" �
 Az aktuális nem blokkolt headert a következő api-ból lehet lekérni: https://www.e-szivacs.org/mirror/settings.json
 
 Most úgy tűnik, hogy header nélkül is menne, de régen nem ment, úgyhogy nem ajánlom a használatát.
-
+```
 "Kreta.Ellenorzo"                                       > Blokkolva
 
 "Kreta.Ellenorzo/2.9.4.2019101401"                      > Blokkolva
@@ -21,3 +21,4 @@ Most úgy tűnik, hogy header nélkül is menne, de régen nem ment, úgyhogy ne
 "Kreta.Ellenorzo/2.9.4.2019101401 (Android; G8341 0.0)" > Működik
 
 SEMMI                                                   > Működik (most)
+```
